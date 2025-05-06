@@ -1,4 +1,4 @@
-# 🏠 Bangalore House Price Prediction App
+# 🏠 House Price Prediction App
 
 This is a simple **machine learning web application** built with **Streamlit** that predicts the price of a house in Bangalore based on user input features such as location, square footage, number of bedrooms, bathrooms, and balconies.
 
